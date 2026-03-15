@@ -14,4 +14,4 @@ images:
   newTag: ec9eb54a6e32554fcef9286247bb2878c5e69757
 - name: 591853006687.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newName: 591853006687.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
-  newTag: v1.0
+  newTag: ec9eb54a6e32554fcef9286247bb2878c5e69757
